@@ -45,6 +45,8 @@ This project uses a deep learning regression model to predict key mechanical pro
 
 During training, both loss and MAE (Mean Absolute Error) are monitored.
 
+![Screenshot 2025-07-05 224225](https://github.com/user-attachments/assets/20dd8633-d025-4bd5-8ea1-f87c9f46f47f)
+
 ## 📊 Visualization
 
 The training process is visualized using matplotlib:
@@ -53,12 +55,13 @@ The training process is visualized using matplotlib:
 - ![result](https://github.com/user-attachments/assets/5496a86e-d769-41f4-a0d7-730e6a9a982d)
 
 
-
-> You can generate these plots by running the script. Save them in a folder named `results/` for easy GitHub preview.
-
 ## 🔍 Prediction Example
 
 ```python
 X_new = np.array([[0.1, 0.3, 0.5, 0.9, 1050, 0.6, 0.02]])
 ```
 ![Screenshot 2025-07-05 224512](https://github.com/user-attachments/assets/b0e1daa5-0ddb-4d9c-b304-5e56fcccb6ce)
+
+## Result
+
+![Screenshot 2025-07-05 224212](https://github.com/user-attachments/assets/5463936f-5d1f-4bfd-a2dd-a547e9480265)
