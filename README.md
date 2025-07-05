@@ -60,7 +60,5 @@ The training process is visualized using matplotlib:
 
 ```python
 X_new = np.array([[0.1, 0.3, 0.5, 0.9, 1050, 0.6, 0.02]])
-![Screenshot 2025-07-05 224512](https://github.com/user-attachments/assets/5be90eb6-69c5-4371-a504-43ee712bed5f)
-
-
-
+```
+![Screenshot 2025-07-05 224512](https://github.com/user-attachments/assets/b0e1daa5-0ddb-4d9c-b304-5e56fcccb6ce)
