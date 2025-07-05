@@ -50,6 +50,8 @@ During training, both loss and MAE (Mean Absolute Error) are monitored.
 The training process is visualized using matplotlib:
 - **Loss & MAE curves**
 - **Predicted vs Actual plots** on the validation set
+- ![result](https://github.com/user-attachments/assets/5496a86e-d769-41f4-a0d7-730e6a9a982d)
+
 
 
 > You can generate these plots by running the script. Save them in a folder named `results/` for easy GitHub preview.
@@ -58,3 +60,7 @@ The training process is visualized using matplotlib:
 
 ```python
 X_new = np.array([[0.1, 0.3, 0.5, 0.9, 1050, 0.6, 0.02]])
+![Screenshot 2025-07-05 224512](https://github.com/user-attachments/assets/5be90eb6-69c5-4371-a504-43ee712bed5f)
+
+
+
