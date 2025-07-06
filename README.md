@@ -62,6 +62,6 @@ X_new = np.array([[0.1, 0.3, 0.5, 0.9, 1050, 0.6, 0.02]])
 ```
 ![Screenshot 2025-07-05 224512](https://github.com/user-attachments/assets/b0e1daa5-0ddb-4d9c-b304-5e56fcccb6ce)
 
-## Result
+## 🚀 Result
 
 ![Screenshot 2025-07-05 224212](https://github.com/user-attachments/assets/5463936f-5d1f-4bfd-a2dd-a547e9480265)
